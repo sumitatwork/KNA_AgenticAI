@@ -12,3 +12,7 @@ bs4
 arxiv
 pymupdf
 wikipedia
+langchain_huggingface
+faiss-cpu
+langchain_google_genai
+pypdf
