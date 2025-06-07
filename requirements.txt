@@ -18,3 +18,6 @@ langchain_google_genai
 pypdf
 langchain-pinecone
 
+## Langgraph
+youtube_search
+
