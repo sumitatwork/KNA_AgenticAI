@@ -1,3 +1,4 @@
+## Langchain
 ipykernel
 pydantic
 python-dotenv
@@ -21,3 +22,5 @@ langchain-pinecone
 ## Langgraph
 youtube_search
 langgraph
+chromadb
+langchain_chromadb
