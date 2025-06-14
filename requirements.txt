@@ -18,6 +18,10 @@ faiss-cpu
 langchain_google_genai
 pypdf
 langchain-pinecone
+## Self
+jq
+docx2txt
+motor ## For MongodbLoader
 
 ## Langgraph
 youtube_search
