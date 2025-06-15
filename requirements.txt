@@ -27,4 +27,6 @@ motor ## For MongodbLoader
 youtube_search
 langgraph
 chromadb
-langchain_chromadb
+# langchain_chromadb
+duckduckgo_search
+yfinance
